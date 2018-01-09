@@ -941,4 +941,9 @@ CodeSaya: Dhon
 Github: OdhonDhon
 Nama: Dani Ramdani
 Website: -
+<<<<<<< HEAD
 Pesan: Terimakasih ya
+=======
+Pesan: Terimakasih.. CodeSaya emang keren banget..
+
+>>>>>>> newbie
